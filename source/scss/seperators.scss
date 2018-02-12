@@ -5,6 +5,11 @@
     width: 100%;
     bottom: -104px;
     z-index: 3;
+    @media screen and (max-width: $small-screen) {
+        width: 200%;
+        left: -50%;
+        overflow-x: hidden;
+    }
 }
 
 .seperator-top {
@@ -13,6 +18,11 @@
     width: 100%;
     top: -99px;
     z-index: 3;
+    @media screen and (max-width: $small-screen) {
+        width: 200%;
+        left: -50%;
+        overflow-x: hidden;
+    }
 }
 
 // Seperators

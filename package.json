@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
-    "build":"parcel build index.html -d docs --public-url /freeCodeCampKarachi/"
+    "build": "parcel build index.html -d docs --public-url /freeCodeCampKarachi/"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/fccpakistan/freeCodeCampKarachi#readme",
   "dependencies": {
+    "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
     "materialize-css": "^0.100.2"
   },
