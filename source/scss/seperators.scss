@@ -1,0 +1,60 @@
+// Custom CSS
+.seperator-bottom {
+    display: block;
+    position: absolute;
+    width: 100%;
+    bottom: -104px;
+    z-index: 3;
+}
+
+.seperator-top {
+    display: block;
+    position: absolute;
+    width: 100%;
+    top: -99px;
+    z-index: 3;
+}
+
+// Seperators
+
+/* Big half circle */
+
+#bigHalfCircle path {
+    fill: darken($secondary-green, 0%);
+    stroke: darken($secondary-green, 0%);
+}
+
+
+/* Big triangle with shadow */
+
+#trianglePath1 {
+    fill: darken($secondary-green, 0%);
+    stroke: darken($secondary-green, 0%);
+}
+
+#trianglePath2 {
+    fill: darken($primary-green, 0%);
+    stroke: darken($primary-green, 0%);
+}
+
+
+/* Curves */
+
+#curveUpColor path,
+#curveDownColor path {
+    fill: darken($white, 0%);
+    stroke: darken($white, 0%);
+}
+
+.curveUpColorGreen path {
+    fill: darken($secondary-green, 0%) !important;
+    stroke: darken($secondary-green, 0%) !important;
+}
+
+
+/* Clouds */
+
+#clouds path {
+    fill: $white;
+    stroke: $white;
+}

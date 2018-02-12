@@ -1,0 +1,28 @@
+{
+  "name": "freeCodeCampKarachi",
+  "version": "1.0.0",
+  "description": "A landing page for freeCodeCamp Karachi",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build":"parcel build index.html -d docs --public-url /freeCodeCampKarachi/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fccpakistan/freeCodeCampKarachi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fccpakistan/freeCodeCampKarachi/issues"
+  },
+  "homepage": "https://github.com/fccpakistan/freeCodeCampKarachi#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "materialize-css": "^0.100.2"
+  },
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
