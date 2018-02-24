@@ -9,19 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fccpakistan/freeCodeCampKarachi.git"
+    "url": "git+https://github.com/fcckarachi/fcckarachi.github.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fccpakistan/freeCodeCampKarachi/issues"
+    "url": "https://github.com/fcckarachi/fcckarachi.github.io/issues"
   },
-  "homepage": "https://github.com/fccpakistan/freeCodeCampKarachi#readme",
+  "homepage": "https://github.com/fcckarachi/fcckarachi.github.io#readme",
   "dependencies": {
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
-    "materialize-css": "^0.100.2"
+    "materialize-css": "^0.100.2",
+    "parcel-bundler": "^1.6.2"
   },
   "devDependencies": {
     "node-sass": "^4.7.2"
