@@ -18,17 +18,13 @@
     "url": "https://github.com/fcckarachi/fcckarachi.github.io/issues"
   },
   "homepage": "https://github.com/fcckarachi/fcckarachi.github.io#readme",
-  "cssnano": {
-    "preset": [
-      "advanced",
-      {"autoprefixer": {"add": true}}
-    ]
-  },
   "dependencies": {
+    "autoprefixer": "^8.0.0",
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
     "materialize-css": "^0.100.2",
-    "parcel-bundler": "^1.6.2"
+    "parcel-bundler": "^1.6.2",
+    "postcss-modules": "^1.1.0"
   },
   "devDependencies": {
     "node-sass": "^4.7.2"

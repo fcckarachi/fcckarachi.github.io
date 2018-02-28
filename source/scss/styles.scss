@@ -148,6 +148,10 @@ h2 {
     }
 }
 
+.container {
+    width: 90%;
+}
+
 // HELPER CLASSES
 .hr-white {
     background-image: -webkit-linear-gradient(left, $white, $primary-green, $white);
