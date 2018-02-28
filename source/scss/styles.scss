@@ -4,6 +4,7 @@
     font-weight: 400;
     src: url('../fonts/Lato/Lato-Regular.ttf') format('truetype');
 }
+
 @import 'variables';
 @import 'seperators';
 // BASE CSS
@@ -17,6 +18,10 @@ body {
     color: $primary-green;
     width: 100%;
     overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+    -ms-font-smoothing: antialiased;
+    -o-font-smoothing: antialiased;
 }
 
 hr {
@@ -99,8 +104,24 @@ h2 {
     width: 150px;
 }
 
+.goals {
+    background-color: $primary-green;
+    color: $white;
+    border-radius: 5px;
+    height: 200px;
+    margin: 5px;
+    padding: 10px;
+    i {
+        margin: 15px;
+    }
+    h5 {
+        font-size: 17px;
+    }
+}
+
 .numbers {
-    border: 1px solid $primary-green;
+    background-color: $primary-green;
+    color: $white;
     border-radius: 5px;
     margin: 5px;
     padding: 10px;

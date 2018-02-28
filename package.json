@@ -18,6 +18,12 @@
     "url": "https://github.com/fcckarachi/fcckarachi.github.io/issues"
   },
   "homepage": "https://github.com/fcckarachi/fcckarachi.github.io#readme",
+  "cssnano": {
+    "preset": [
+      "advanced",
+      {"autoprefixer": {"add": true}}
+    ]
+  },
   "dependencies": {
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
