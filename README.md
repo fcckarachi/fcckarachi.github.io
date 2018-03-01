@@ -72,7 +72,7 @@ Please follow these [Guidelines](https://github.com/fcckarachi/fcckarachi.github
 - Style guide provided by [freeCodeCamp](https://design-style-guide.freecodecamp.org/) 
 - Section Separator used from this [CodePen](https://codepen.io/whitelightG/pen/ezNNYg?q=Section%20Seperator&limit=all&type=type-pens)
 - Inspired by [freeCodeCampVienna](https://fccvienna.github.io/)
-- Designed using Brain & some Creativity
+- Designed using Brain.js & Creativity.js
 
 ## Any Questions?
 
