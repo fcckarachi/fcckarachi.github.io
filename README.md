@@ -66,13 +66,13 @@ Please follow these [Guidelines](https://github.com/fcckarachi/fcckarachi.github
 
 ## Tools used to build this page
 
-Bundled using [Parcel.js](https://parceljs.org/)
-Styled using [Materialize.css](http://materializecss.com/getting-started.html)
-Deployed using [TravisCI](https://travis-ci.org/)
-Style guide provided by [freeCodeCamp](https://design-style-guide.freecodecamp.org/) 
-Section Separator used from this [CodePen](https://codepen.io/whitelightG/pen/ezNNYg?q=Section%20Seperator&limit=all&type=type-pens)
-Inspired by [freeCodeCampVienna](https://fccvienna.github.io/)
-Designed using Brain & some Creativity
+- Bundled using [Parcel.js](https://parceljs.org/)
+- Styled using [Materialize.css](http://materializecss.com/getting-started.html)
+- Deployed using [TravisCI](https://travis-ci.org/)
+- Style guide provided by [freeCodeCamp](https://design-style-guide.freecodecamp.org/) 
+- Section Separator used from this [CodePen](https://codepen.io/whitelightG/pen/ezNNYg?q=Section%20Seperator&limit=all&type=type-pens)
+- Inspired by [freeCodeCampVienna](https://fccvienna.github.io/)
+- Designed using Brain & some Creativity
 
 ## Any Questions?
 
