@@ -60,9 +60,9 @@ This command serves the app at http://localhost:1234 and provides basic URL rout
 	npm start
 
 
-## Want to Conrtibute?
-
-Please follow these [Guidelines](https://github.com/fcckarachi/fcckarachi.github.io/blob/develop/CONTRIBUTING.md) in order to contribute to this repo. 
+## Want to Contribute?
+1. [Join fcckarachi](https://orgmanager.miguelpiedrafita.com/o/fcckarachi) Organization on github.
+1. Please follow these [Guidelines](https://github.com/fcckarachi/fcckarachi.github.io/blob/develop/CONTRIBUTING.md) in order to contribute to this repo. 
 
 ## Tools used to build this page
 
