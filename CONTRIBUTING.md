@@ -2,7 +2,9 @@
 
 # Contributor's Guide
 
-Follow the instructions below to install and run the Project locally in less than 15 minutes. 
+Follow the instructions below to install and run the Project locally in less than 15 minutes.
+
+1. Please [Join fccKarachi](https://orgmanager.miguelpiedrafita.com/o/fcckarachi) Organization on github if you still haven't. It is just single click away.
 
 1. Find an issue that needs assistance by looking in the [issues](https://github.com/fcckarachi/fcckarachi.github.io/issues) directory of this repo.
 
