@@ -1,9 +1,10 @@
 let $ = require('../../node_modules/jquery/dist/jquery');
 let hammer = require('../../node_modules/hammerjs');
 let materialize = require('../../node_modules/materialize-css/dist/js/materialize');
-
+let lazyload = require('../../node_modules/lazyload/lazyload')
 
 $(document).ready(function () {
+  $('img.lazy').show().lazyload()
   $(".button-collapse").sideNav();
   $('.parallax').parallax();
   $('.carousel').carousel({ indicators: true, padding: 50, shift: 80 });

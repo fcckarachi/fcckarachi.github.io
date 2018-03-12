@@ -22,6 +22,8 @@
     "autoprefixer": "^8.0.0",
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
+    "jquery-lazyload": "^1.9.7",
+    "lazyload": "^2.0.0-beta.2",
     "materialize-css": "^0.100.2",
     "parcel-bundler": "^1.6.2",
     "postcss-modules": "^1.1.0"
