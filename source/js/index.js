@@ -39,7 +39,7 @@ $(document).ready(function () {
   //Rotate after every 1000MS
   setInterval(function(){
     $('.carousel').carousel('next');
-  },1000); 
+  },2500); 
     
   
   setCopyRightYear();
