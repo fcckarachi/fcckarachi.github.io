@@ -22,13 +22,13 @@
     "autoprefixer": "^8.0.0",
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
-    "jquery-lazyload": "^1.9.7",
-    "lazyload": "^2.0.0-beta.2",
     "materialize-css": "^0.100.2",
     "parcel-bundler": "^1.6.2",
     "postcss-modules": "^1.1.0"
   },
   "devDependencies": {
-    "node-sass": "^4.7.2"
+    "lazyload": "^2.0.0-beta.2",
+    "node-sass": "^4.7.2",
+    "parcel-plugin-lazy": "0.0.2"
   }
 }
