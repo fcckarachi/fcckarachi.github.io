@@ -1,4 +1,4 @@
-
+![Scrutinizer Build](https://img.shields.io/scrutinizer/build/g/filp/whoops.svg?style=flat-square)
 ![preview-web](https://raw.githubusercontent.com/fcckarachi/fcckarachi-logos/master/logos/green%20logo.svg?sanitize=true)
 
 # Official Landing page for freeCodeCampKarachi
