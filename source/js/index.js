@@ -35,6 +35,13 @@ $(document).ready(function () {
     } // End if
   });
 
+  //Auto Rotate carousel
+  //Rotate after every 1000MS
+  setInterval(function(){
+    $('.carousel').carousel('next');
+  },2500); 
+    
+  
   setCopyRightYear();
 });
 
