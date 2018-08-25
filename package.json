@@ -27,6 +27,8 @@
     "postcss-modules": "^1.1.0"
   },
   "devDependencies": {
-    "node-sass": "^4.7.2"
+    "lazyload": "^2.0.0-beta.2",
+    "node-sass": "^4.7.2",
+    "parcel-plugin-lazy": "0.0.2"
   }
 }
